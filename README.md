@@ -51,7 +51,7 @@ I'm a passionate Frontend Engineer who loves crafting intuitive, high-performanc
 ## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fortune-obi-278aa3314) 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/darlington_dev?s=21)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/nonso_can_code?s=21)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://fortuneobi.com)
 
 ---
