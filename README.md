@@ -6,16 +6,16 @@ I'm a passionate Frontend Engineer who loves crafting intuitive, high-performanc
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 **I’m currently exploring:** Modern Next.js features and progressive web app optimizations.
-- 🌱 **I’m learning:** Advanced state management and component-driven design patterns.
-- 💬 **Ask me about:** Web performance optimization, design systems, and scalable frontend architectures.
-- 🤝 **Fun fact:** I believe that great code and stunning design can co-exist to create amazing user experiences.
+-  **I’m currently exploring:** Modern Next.js features and progressive web app optimizations.
+-  **I’m learning:** Advanced state management and component-driven design patterns.
+-  **Ask me about:** Web performance optimization, design systems, and scalable frontend architectures.
+-  **Fun fact:** I believe that great code and stunning design can co-exist to create amazing user experiences.
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **Languages:** JavaScript, TypeScript, HTML5, CSS3
@@ -39,7 +39,7 @@ I'm a passionate Frontend Engineer who loves crafting intuitive, high-performanc
 
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DarlingtonDev&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
@@ -48,7 +48,7 @@ I'm a passionate Frontend Engineer who loves crafting intuitive, high-performanc
 
 ---
 
-## 📫 Let’s Connect
+##  Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fortune-obi-278aa3314) 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/nonso_can_code?s=21)  
@@ -56,7 +56,7 @@ I'm a passionate Frontend Engineer who loves crafting intuitive, high-performanc
 
 ---
 
-## 🎯 What I'm Working On
+##  What I'm Working On
 
 - **Learning:** Cutting-edge web technologies and design patterns.
 - **Experimenting:** With new CSS methodologies and advanced component libraries.
@@ -64,7 +64,7 @@ I'm a passionate Frontend Engineer who loves crafting intuitive, high-performanc
 
 ---
 
-## 🚀 Future Goals
+##  Future Goals
 
 - Contribute more to open source projects.
 - Share knowledge through technical blogs and workshops.
@@ -72,4 +72,4 @@ I'm a passionate Frontend Engineer who loves crafting intuitive, high-performanc
 
 ---
 
-Thanks for stopping by! If you like what you see or want to collaborate, feel free to reach out. Happy coding! 🎉
+Thanks for stopping by! If you like what you see or want to collaborate, feel free to reach out. Happy coding!
